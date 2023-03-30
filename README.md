@@ -1,0 +1,2 @@
+# firstc
+practicing using git
